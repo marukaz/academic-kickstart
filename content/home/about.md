@@ -40,3 +40,7 @@ weight = 5
 # test
 
 これはテストです。
+```python
+def hoge():
+  print('hi')
+```
