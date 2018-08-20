@@ -15,6 +15,12 @@ weight = 5
     "Summarization"
   ]
  
+ # List your qualifications (such as academic degrees).
+[[education.courses]]
+  course = "BSc in Information Science"
+  institution = "Tokyo University of Science"
+  year = 2017
+  
 +++
 
 # 自己紹介
