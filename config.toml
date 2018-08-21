@@ -73,12 +73,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "icon.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "marukaz.jh@gmail.com"
+  skype = "live:51b2679021bdf744"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -330,8 +326,8 @@ enableGitInfo = false
     languageCode = "en-us"
 
   [languages.ja]
-    # baseurl = "https://marukaz.netlify.com/ja/"
-    languageCode = "Japanese"
+    languageName = "日本語"
+    languageCode = "ja"
     title = "松丸和樹"
     hasCJKLanguage = true
 
