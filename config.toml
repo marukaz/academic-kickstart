@@ -30,18 +30,7 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
-[languages]
-  [languages.en]
-    baseURL = "https://marukaz.netlify.com/en/"
-    languageName = "English"
-    title = "In English"
-    weight = 1
-  [languages.ja]
-    baseurl = "https://marukaz.netlify.com/ja/"
-    languageName = "Japanese"
-    title = "日本語"
-    weight = 2
-    hasCJKLanguage = true
+
 # hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -336,8 +325,18 @@ enableGitInfo = false
 #   Refer to https://sourcethemes.com/academic/docs/language/
 
 # Configure the English version of the website.
-[languages.en]
-  languageCode = "en-us"
+[languages]
+  [languages.en]
+    baseurl = "https://marukaz.netlify.com/en/"
+    languageName = "English"
+    title = "In English"
+    weight = 1
+  [languages.ja]
+    baseurl = "https://marukaz.netlify.com/ja/"
+    languageName = "Japanese"
+    title = "日本語"
+    weight = 2
+    hasCJKLanguage = true
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
