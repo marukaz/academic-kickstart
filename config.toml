@@ -30,6 +30,18 @@ googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    baseURL = "https://marukaz.netlify.com/en/"
+    languageName = "English"
+    title = "In English"
+    weight = 1
+  [languages.ja]
+    baseurl = "https://marukaz.netlify.com/ja/"
+    languageName = "Japanese"
+    title = "日本語"
+    weight = 2
+    hasCJKLanguage = true
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
