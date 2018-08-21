@@ -326,14 +326,14 @@ enableGitInfo = false
 
 # Configure the English version of the website.
 [languages]
-[languages.en]
-  languageCode = "en-us"
+  [languages.en]
+    languageCode = "en-us"
 
-[languages.ja]
-  baseurl = "https://marukaz.netlify.com/ja/"
-  languageCode = "Japanese"
-  title = "松丸和樹"
-  hasCJKLanguage = true
+  [languages.ja]
+    # baseurl = "https://marukaz.netlify.com/ja/"
+    languageCode = "Japanese"
+    title = "松丸和樹"
+    hasCJKLanguage = true
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
