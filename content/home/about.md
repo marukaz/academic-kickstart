@@ -14,23 +14,25 @@ weight = 5
     "Computational Linguistics",
     "Summarization"
   ]
- 
- # List your qualifications (such as academic degrees).
+
+# List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "BSc in Information Science"
-  institution = "Tokyo University of Science"
-  year = 2017
-  
+  course = "PhD in Artificial Intelligence"
+  institution = "Stanford University"
+  year = 2012
+
+[[education.courses]]
+  course = "MEng in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2009
+
+[[education.courses]]
+  course = "BSc in Artificial Intelligence"
+  institution = "Massachusetts Institute of Technology"
+  year = 2008
+ 
 +++
 
-# 自己紹介
+# Biography
+Hia
 
-まつまるです。 
-
-# test
-
-これはテストです。
-```python
-def hoge():
-  print('hi')
-```

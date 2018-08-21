@@ -327,7 +327,7 @@ enableGitInfo = false
 # Configure the English version of the website.
 [languages]
   [languages.en]
-    baseurl = "https://marukaz.netlify.com/en/"
+    baseurl = "https://marukaz.netlify.com/"
     languageName = "English"
     title = "In English"
     weight = 1
