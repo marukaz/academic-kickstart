@@ -326,7 +326,7 @@ enableGitInfo = false
     languageCode = "en-us"
 
   [languages.ja]
-    languageName = "日本語"
+    languageName = "Japanese"
     languageCode = "ja"
     title = "松丸和樹"
     hasCJKLanguage = true
